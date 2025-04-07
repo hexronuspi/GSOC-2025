@@ -1,3 +1,5 @@
+##### Note: The .ipynb is not getting rendered in Github, please use .pdf converted code(.ipynb) or download and load it into colab to view it
+
 All the weights are stored in google drive and will be downloaded when !gdown cells are triggered.
 
 #### End-to-end Handwritten Text Recognition for Early Modern Spanish Documents
